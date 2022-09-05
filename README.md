@@ -1,5 +1,6 @@
 # COVID Tracker
 A live web application in the public domain to list COVID cases on a daily basis
+![](https://i.imgur.com/v3oI57U.png)
 ## Debugging
 Open your preferred IDE and run ```App.java``` to debug the project. The project is located at ```https://localhost:8080```.
 ## Exporting
