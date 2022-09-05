@@ -7,6 +7,7 @@ Open your preferred IDE and run ```App.java``` to debug the project. The project
 In the ```Gradle Menu```, go to ```covidtracker/Tasks/build/build``` to export the project.
 ![](https://i.imgur.com/UEle5Gp.png)
 ## Libraries
+* [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19)
 * [Spring Boot DevTools](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-devtools)
 * [Spring Boot Starter Test](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-test)
 * [Spring Boot Starter Thymeleaf](https://mvnrepository.com/artifact/org.springframework.boot/spring-boot-starter-thymeleaf)
